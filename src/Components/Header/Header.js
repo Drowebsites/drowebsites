@@ -6,7 +6,7 @@ export class Header extends Component {
         return (
             <div>
                 {/* ======= Header ======= */}
-                <header id="header" className="fixed-top ">
+                <header id="header" className="fixed-top">
                     <div className="container-fluid">
                         <div className="row justify-content-center">
                             <div className="col-xl-9 d-flex align-items-center">
