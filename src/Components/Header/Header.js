@@ -23,7 +23,7 @@ export class Header extends Component {
                                         <li><a href="#contact">Contacto</a></li>
                                     </ul>
                                 </nav>{/* .nav-menu */}
-                                <a href="#about" className="get-started-btn scrollto">Empezar</a>
+                                <a href="#about" className="get-started-btn scrollto text-decoration-none">Empezar</a>
                             </div>
                         </div>
                     </div>

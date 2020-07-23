@@ -3,6 +3,7 @@ import logo from './logo.jpg';
 import './App.css';
 import Home from './Components/Home';
 import Header from './Components/Header/Header';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
