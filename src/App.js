@@ -6,6 +6,7 @@ import Header from './Components/Header/Header';
 import Hero from './Components/Hero/Hero';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import About from './Components/About/About';
+import Footer from './Components/Footer/Footer';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         </p>
         <Home />
       </header>
+      <Footer />
     </div>
   );
 }
