@@ -8,6 +8,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import About from './Components/About/About';
 import Footer from './Components/Footer/Footer';
 import Services from './Components/Services/Services';
+import Features from './Components/Features/Features';
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
         </p>
         <Home />
       </header>
+      <Features />
       <Footer />
     </div>
   );
