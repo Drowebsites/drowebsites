@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import './Features.css';
+import 'boxicons';
+import FeaturesImg from './features.svg';
 
 export class Features extends Component {
     render() {
@@ -16,6 +18,7 @@ export class Features extends Component {
                             <div className="col-lg-6 order-2 order-lg-1 d-flex flex-column align-items-lg-center">
                                 <div className="icon-box mt-5 mt-lg-0" data-aos="fade-up" data-aos-delay={100}>
                                     <i className="bx bx-receipt" />
+                                    <box-icon name="hot"></box-icon>
                                     <h4>Est labore ad</h4>
                                     <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
                                 </div>
@@ -36,7 +39,7 @@ export class Features extends Component {
                                 </div>
                             </div>
                             <div className="image col-lg-6 order-1 order-lg-2 " data-aos="zoom-in" data-aos-delay={100}>
-                                <img src="./features.svg" alt="" className="img-fluid" />
+                                <img src={FeaturesImg} alt="" className="img-fluid" />
                             </div>
                         </div>
                     </div>
