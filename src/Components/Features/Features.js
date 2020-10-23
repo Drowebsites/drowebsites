@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './Features.css';
-import 'boxicons';
+import 'boxicons/css/boxicons.min.css';
 import FeaturesImg from './features.svg';
 
 export class Features extends Component {
@@ -18,7 +18,6 @@ export class Features extends Component {
                             <div className="col-lg-6 order-2 order-lg-1 d-flex flex-column align-items-lg-center">
                                 <div className="icon-box mt-5 mt-lg-0" data-aos="fade-up" data-aos-delay={100}>
                                     <i className="bx bx-receipt" />
-                                    <box-icon name="hot"></box-icon>
                                     <h4>Est labore ad</h4>
                                     <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
                                 </div>
