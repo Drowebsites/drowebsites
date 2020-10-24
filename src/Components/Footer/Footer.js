@@ -44,7 +44,7 @@ export class Footer extends Component {
                                 <div className="col-lg-4 col-md-6 footer-newsletter">
                                     <h4>Suscríbase a nuestro boletín</h4>
                                     <p>Entérese de novedades y noticias sobre nuestro trabajo</p>
-                                    <form action method="post">
+                                    <form action="true" method="post">
                                         <input type="email" name="email" /><input type="submit" defaultValue="Subscribe" />
                                     </form>
                                 </div>

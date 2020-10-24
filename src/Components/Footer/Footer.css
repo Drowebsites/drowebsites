@@ -39,6 +39,7 @@
     font-weight: bold;
     position: relative;
     padding-bottom: 12px;
+    text-align: left;
 }
 
 #footer .footer-top .footer-links {
@@ -82,6 +83,7 @@
 
 #footer .footer-newsletter {
     font-size: 15px;
+    text-align: left;
 }
 
 #footer .footer-newsletter h4 {

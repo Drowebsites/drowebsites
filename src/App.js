@@ -7,6 +7,7 @@ import About from './Components/About/About';
 import Footer from './Components/Footer/Footer';
 import Services from './Components/Services/Services';
 import Features from './Components/Features/Features';
+import Pricing from './Components/Pricing/Pricing';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Services />
       </main>
       <Features />
+      <Pricing />
       <Footer />
     </div>
   );
