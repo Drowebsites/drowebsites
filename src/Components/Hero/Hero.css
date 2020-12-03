@@ -15,7 +15,7 @@
 
 #hero h1 {
     margin: 0;
-    font-size: 52px;
+    font-size: 45px;
     font-weight: 700;
     line-height: 64px;
     color: #fff;
@@ -71,7 +71,7 @@
         text-align: center;
     }
     #hero .hero-img img {
-        width: 50%;
+        width: 30%;
     }
 }
 
@@ -85,13 +85,13 @@
         line-height: 24px;
     }
     #hero .hero-img img {
-        width: 60%;
+        width: 40%;
     }
 }
 
 @media (max-width: 575px) {
     #hero .hero-img img {
-        width: 80%;
+        width: 60%;
     }
 }
 
