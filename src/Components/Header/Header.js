@@ -40,7 +40,7 @@ export class Header extends Component {
                                         <li><a href="#services">Servicios</a></li>
                                         <li><a href="#portfolio">Portafolio</a></li>
                                         <li><a href="#pricing">Precios</a></li>
-                                        <li><a href="#contact">Contacto</a></li>
+                                        <li><a href="#footer">Contacto</a></li>
                                     </ul>
                                 </nav>{/* .nav-menu */}
                                 <a href="#about" className="get-started-btn scrollto text-decoration-none">Empezar</a>

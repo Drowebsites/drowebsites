@@ -12,13 +12,13 @@ export class Footer extends Component {
                         <div className="container">
                             <div className="row">
                                 <div className="col-lg-3 col-md-6 footer-contact">
-                                    <h3>Drowebsites</h3>
+                                    <h3>Drowebs</h3>
                                     <p>
-                                        A108 Adam Street <br />
-                                        New York, NY 535022<br />
-                                        United States <br /><br />
-                                        <strong>Phone:</strong> +1 5589 55488 55<br />
-                                        <strong>Email:</strong> info@example.com<br />
+                                        Agencia digital para el <br />
+                                        desarrollo de sitos web <br /><br />
+                                        <strong>Teléfono:</strong> 85 488 55<br />
+                                        <strong>Móvil:</strong> +57 321 562 235<br />
+                                        <strong>Email:</strong> info@drowebs.com<br />
                                     </p>
                                 </div>
                                 <div className="col-lg-2 col-md-6 footer-links">
@@ -45,7 +45,7 @@ export class Footer extends Component {
                                     <h4>Suscríbase a nuestro boletín</h4>
                                     <p>Entérese de novedades y noticias sobre nuestro trabajo</p>
                                     <form action="true" method="post">
-                                        <input type="email" name="email" /><input type="submit" defaultValue="Subscribe" />
+                                        <input type="email" name="email" /><input type="submit" defaultValue="Subscribe" disabled />
                                     </form>
                                 </div>
                             </div>
@@ -55,7 +55,7 @@ export class Footer extends Component {
                         <div className="copyright-wrap d-md-flex py-4">
                             <div className="mr-md-auto text-center text-md-left">
                                 <div className="copyright">
-                                    © Copyright <strong><span>Drowebsites</span></strong>. Todos los derechos reservados
+                                    © Copyright <strong><span>Drowebs</span></strong>. Todos los derechos reservados
         </div>
                                 <div className="credits">
                                     Desarrollado por <a href="https://github.com/StyvenSoft">Styvensoft</a>

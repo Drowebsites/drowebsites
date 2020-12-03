@@ -24,7 +24,7 @@ export class About extends Component {
                                     <li><Icofont icon="icofont-check-circled"/>Posicionamiento web en Google (SEO)</li>
                                     <li><Icofont icon="icofont-check-circled"/> Marketing digital, Administración, Publicidad en Redes Sociales</li>
                                 </ul>
-                                <a href="https://twitter.com/styvensoft" className="read-more" >Leer más <i className="icofont-long-arrow-right" /></a>
+                                <a href="#pricing" className="read-more" >Leer más <i className="icofont-long-arrow-right" /></a>
                             </div>
                         </div>
                     </div>

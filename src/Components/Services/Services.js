@@ -11,7 +11,7 @@ export class Services extends Component {
                     <div className="container" data-aos="fade-up">
                         <div className="section-title">
                             <h2>Nuestros Servicios</h2>
-                            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                            <p>Ofrecemos diseño de paginas web profesionales, tiendas online, marketing digital, posicionamiento de páginas web en buscadores.</p>
                         </div>
                         <div className="row">
                             <div className="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay={100}>
@@ -23,7 +23,7 @@ export class Services extends Component {
                                         <Icofont icon="icofont-contrast"/> 
                                     </div>
                                     <h4><a href="#section">Diseño web</a></h4>
-                                    <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                                    <p>Diseñamos y creamos tu página web con calidad en muy corto tiempo.</p>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay={200}>
@@ -35,7 +35,7 @@ export class Services extends Component {
                                         <Icofont icon="icofont-code"/> 
                                     </div>
                                     <h4><a href="#section">Desarrollo Web</a></h4>
-                                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+                                    <p>Desarrollamos webs de calidad pensando siempre en tus clientes potenciales</p>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay={300}>
@@ -47,7 +47,7 @@ export class Services extends Component {
                                         <Icofont icon="icofont-handshake-deal"/>
                                     </div>
                                     <h4><a href="#section">Gestión de productos</a></h4>
-                                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+                                    <p>Gestionamos los contenidos de tu página web o tienda online: productos, servicios, blogs.</p>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay={100}>
@@ -59,7 +59,7 @@ export class Services extends Component {
                                         <Icofont icon="icofont-megaphone"/>
                                     </div>
                                     <h4><a href="#section">Marketing</a></h4>
-                                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                                    <p>Construimos estrategias de marketing ideales para su empresa sincronizadas, completas y exitosas</p>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay={200}>
@@ -71,7 +71,7 @@ export class Services extends Component {
                                         <Icofont icon="icofont-paint"/>
                                     </div>
                                     <h4><a href="#section">Diseño gráfico</a></h4>
-                                    <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+                                    <p>Creamos imágenes para las redes sociales, tarjetas, banners, flyers y mucho más</p>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay={300}>
@@ -83,7 +83,7 @@ export class Services extends Component {
                                         <Icofont icon="icofont-web"/>
                                     </div>
                                     <h4><a href="#section">Posicionamiento web SEO</a></h4>
-                                    <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+                                    <p>Te ayudamos a estar en los primeros lugares de los principales navegadores con SEM/SEO.</p>
                                 </div>
                             </div>
                         </div>
