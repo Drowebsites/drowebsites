@@ -10,7 +10,7 @@ export class Hero extends Component {
                     <div className="container-fluid" data-aos="fade-up">
                         <div className="row justify-content-center">
                             <div className="col-xl-5 col-lg-6 pt-3 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-                                <h1>Agencia digital para el desarrollo de sitos web</h1>
+                                <h1>Agencia digital para el desarrollo de sitios web</h1>
                                 <h2>Te ayudaremos a crear un sitio web con una solución perfecta</h2>
                                 <div><a href="#about" className="btn-get-started scrollto">Empezar Proyecto</a></div>
                             </div>

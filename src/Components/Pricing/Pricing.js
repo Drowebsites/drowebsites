@@ -26,7 +26,7 @@ export default class Pricing extends Component {
                                         <li className="na">Soporte prioritario</li>
                                     </ul>
                                     <div className="btn-wrap">
-                                        <a href="#section" className="btn-buy">Cotizar</a>
+                                        <a href="mailto:drowebsites@gmail.com" className="btn-buy">Cotizar</a>
                                     </div>
                                 </div>
                             </div>
@@ -44,7 +44,7 @@ export default class Pricing extends Component {
                                         <li className="na">Soporte prioritario</li>
                                     </ul>
                                     <div className="btn-wrap">
-                                        <a href="#section" className="btn-buy">Cotizar</a>
+                                        <a href="mailto:drowebsites@gmail.com" className="btn-buy">Cotizar</a>
                                     </div>
                                 </div>
                             </div>
@@ -62,7 +62,7 @@ export default class Pricing extends Component {
                                         <li className="na">Soporte prioritario</li>
                                     </ul>
                                     <div className="btn-wrap">
-                                        <a href="#section" className="btn-buy">Cotizar</a>
+                                        <a href="mailto:drowebsites@gmail.com" className="btn-buy">Cotizar</a>
                                     </div>
                                 </div>
                             </div>
@@ -81,7 +81,7 @@ export default class Pricing extends Component {
                                         <li>Soporte prioritario</li>
                                     </ul>
                                     <div className="btn-wrap">
-                                        <a href="#section" className="btn-buy">Cotizar</a>
+                                        <a href="mailto:drowebsites@gmail.com" className="btn-buy">Cotizar</a>
                                     </div>
                                 </div>
                             </div>
